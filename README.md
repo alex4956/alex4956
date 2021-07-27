@@ -2,7 +2,7 @@
 - 👀 I’m interested in remoote job
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email alex50215021@gmail.com
+- 📫 How to reach me: email alex50215021@gmail.com
 - 
 
 <!---
